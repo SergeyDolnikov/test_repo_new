@@ -1,5 +1,5 @@
 #!/bin/bash
-datatime_now='date "+%Y-%m-%d %H:%M"'
+datatime_now = date "+%Y-%m-%d %H:%M"
 git config --global user.name "Sergey Dolnikov"
 git config --global user.email "dolnikov90@mail.ru"
 git add *
